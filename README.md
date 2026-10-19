@@ -26,5 +26,4 @@ El desarrollo se realizó en la rama `develop` haciendo modificaciones en la cla
 Se realizaron commits correspondientes a la creación, implementación y limpieza/documentación del proyecto.
 
 ## Vídeo
-
-[Enlace al vídeo]
+https://youtu.be/EulOQvQ027w
